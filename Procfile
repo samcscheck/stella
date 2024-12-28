@@ -1,0 +1,1 @@
+worker: python stella_bot.py
